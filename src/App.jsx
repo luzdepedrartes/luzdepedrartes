@@ -22,7 +22,7 @@ function App() {
     <div className="app">
       <header className="app-header">
         <div className="container">
-          <a href="/" className="logo">
+          <a className="logo">
             <h1>✦ LUZ DE PEDRA ✦</h1>
             <p>PINTURA MARMORIZADA DE LUXO</p>
           </a>
@@ -75,7 +75,7 @@ function App() {
           {/* Crédito Centronic */}
           <div className="footer-credits">
             <p className="credit-line">
-              Desenvolvido por <strong className="centronic">Centronic Tecnologia LTDA</strong> — 100% Open Source
+              Desenvolvido por <strong className="centronic">M.I.T - Tecnologia LTDA</strong> — 100% Open Source
             </p>
             <p className="credit-sub">
               🚀 Tecnologia e inovação para transformar ideias em realidade
